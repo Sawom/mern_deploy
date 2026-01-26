@@ -65,11 +65,11 @@ Next.js প্রোজেক্টটি **Vercel CLI** দিয়ে হোস�
 git add .
 git commit -m "Your update message"
 git push
-
+```
 ## অথবা সরাসরি CLI দিয়ে:
 ```bash
 npx vercel --prod
----
+```
 
 ## Render
 
