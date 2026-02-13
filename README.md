@@ -35,10 +35,14 @@
 
 ```bash
 npm install -g vercel
+```
 
-vercel login
+```bash
+npx vercel login
+```
 
-vercel
+```bash
+npx vercel
 ```
 
 Next.js প্রোজেক্টটি **Vercel CLI** দিয়ে হোস্ট করার সময় নিচের প্রশ্নগুলোর উত্তর দেওয়া হয়েছে:
